@@ -1,0 +1,28 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (6937,5379)
+Total 10 blocks and 2 terminals added successfully
+Total 182 nets added successfully
+
+Initial floorplan:
+Chip dimension: (6874,3346)	Chip area = 23000404	Total wire length = 692015.500000	Normalized cost = 1.288646	Program runtime: 0.000124 sec
+Plot saved in plot_no_optimize/xerox.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (6874,3346)
+Chip area = 23000404
+Total wire length = 692015.500000
+Normalized cost = 1.131072
+All placed blocks:
+Block BLKLR #3	dimension: (2569,1295)	lower-left: (0,0)       	upper-right: (2569,1295)
+Block BLKLL #2	dimension: (2534,1295)	lower-left: (2569,0)       	upper-right: (5103,1295)
+Block BLKRS #6	dimension: (1652,1218)	lower-left: (5103,0)       	upper-right: (6755,1218)
+Block BLKUL #8	dimension: (2114,1295)	lower-left: (0,1295)       	upper-right: (2114,2590)
+Block BLKUR #9	dimension: (1939,1295)	lower-left: (2114,1295)       	upper-right: (4053,2590)
+Block BLKRC #5	dimension: (1939,1162)	lower-left: (4053,1295)       	upper-right: (5992,2457)
+Block BLKT #7	dimension: (882,1316)	lower-left: (5992,1218)       	upper-right: (6874,2534)
+Block BLKB #0	dimension: (1295,616)	lower-left: (0,2590)       	upper-right: (1295,3206)
+Block BLKD #1	dimension: (1295,490)	lower-left: (1295,2590)       	upper-right: (2590,3080)
+Block BLKP #4	dimension: (840,756)	lower-left: (2590,2590)       	upper-right: (3430,3346)
+Program runtime: 0.001001 sec
+

@@ -1,0 +1,61 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (11894,6314)
+Total 9 blocks and 73 terminals added successfully
+Total 96 nets added successfully
+
+Initial floorplan:
+Chip dimension: (9844,5490)	Chip area = 54043560	Total wire length = 1112774.000000	Normalized cost = 1.026844	Program runtime: 0.000292 sec
+Chip dimension: (9844,5490)	Chip area = 54043560	Total wire length = 1112774.000000	Normalized cost = 0.869266	Program runtime: 0.000785 sec
+Start SA optimization
+Chip dimension: (9844,5490)	Chip area = 54043560	Total wire length = 1062872.000000	Normalized cost = 0.845878	Program runtime: 0.000836 sec
+Chip dimension: (10270,5496)	Chip area = 56443920	Total wire length = 1039447.000000	Normalized cost = 0.826603	Program runtime: 0.001041 sec
+Chip dimension: (11310,5782)	Chip area = 65394420	Total wire length = 864175.000000	Normalized cost = 0.812936	Program runtime: 0.004820 sec
+Chip dimension: (10036,5484)	Chip area = 55037424	Total wire length = 891970.000000	Normalized cost = 0.760416	Program runtime: 0.004904 sec
+Chip dimension: (9990,5490)	Chip area = 54845100	Total wire length = 851610.000000	Normalized cost = 0.743475	Program runtime: 0.016145 sec
+Chip dimension: (9990,5018)	Chip area = 50129820	Total wire length = 878813.000000	Normalized cost = 0.738086	Program runtime: 0.023067 sec
+Chip dimension: (10024,5484)	Chip area = 54971616	Total wire length = 834926.000000	Normalized cost = 0.733944	Program runtime: 0.030187 sec
+Chip dimension: (10024,5484)	Chip area = 54971616	Total wire length = 832289.000000	Normalized cost = 0.732708	Program runtime: 0.064115 sec
+Chip dimension: (9996,5490)	Chip area = 54878040	Total wire length = 824780.000000	Normalized cost = 0.730766	Program runtime: 0.108283 sec
+Chip dimension: (9996,5490)	Chip area = 54878040	Total wire length = 821066.000000	Normalized cost = 0.729026	Program runtime: 0.118862 sec
+Chip dimension: (9990,5490)	Chip area = 54845100	Total wire length = 818740.000000	Normalized cost = 0.728070	Program runtime: 0.142507 sec
+Chip dimension: (9990,5490)	Chip area = 54845100	Total wire length = 818502.000000	Normalized cost = 0.727958	Program runtime: 0.168416 sec
+Chip dimension: (9990,5490)	Chip area = 54845100	Total wire length = 817042.000000	Normalized cost = 0.727274	Program runtime: 0.252536 sec
+Chip dimension: (10030,5304)	Chip area = 53199120	Total wire length = 856209.000000	Normalized cost = 0.719206	Program runtime: 0.663925 sec
+Chip dimension: (10030,5304)	Chip area = 53199120	Total wire length = 854694.000000	Normalized cost = 0.718495	Program runtime: 0.717410 sec
+Chip dimension: (10030,5304)	Chip area = 53199120	Total wire length = 844743.000000	Normalized cost = 0.713832	Program runtime: 0.811639 sec
+Chip dimension: (10024,5304)	Chip area = 53167296	Total wire length = 832150.000000	Normalized cost = 0.707424	Program runtime: 1.006311 sec
+Chip dimension: (9990,5298)	Chip area = 52927020	Total wire length = 828241.000000	Normalized cost = 0.702965	Program runtime: 1.593638 sec
+Chip dimension: (9990,5298)	Chip area = 52927020	Total wire length = 827125.000000	Normalized cost = 0.702442	Program runtime: 1.617630 sec
+Chip dimension: (9990,5304)	Chip area = 52986960	Total wire length = 827143.000000	Normalized cost = 0.702356	Program runtime: 1.795715 sec
+Chip dimension: (10030,5304)	Chip area = 53199120	Total wire length = 797684.000000	Normalized cost = 0.691777	Program runtime: 1.964737 sec
+Chip dimension: (10024,5304)	Chip area = 53167296	Total wire length = 787013.000000	Normalized cost = 0.686270	Program runtime: 2.047022 sec
+Chip dimension: (10030,5264)	Chip area = 52797920	Total wire length = 761787.000000	Normalized cost = 0.676559	Program runtime: 2.212087 sec
+Chip dimension: (10030,5304)	Chip area = 53199120	Total wire length = 763777.000000	Normalized cost = 0.675885	Program runtime: 2.278979 sec
+Chip dimension: (10024,5304)	Chip area = 53167296	Total wire length = 764759.000000	Normalized cost = 0.675840	Program runtime: 2.315197 sec
+Chip dimension: (10024,5304)	Chip area = 53167296	Total wire length = 764388.000000	Normalized cost = 0.675666	Program runtime: 2.578494 sec
+Chip dimension: (9478,5018)	Chip area = 47560604	Total wire length = 833017.000000	Normalized cost = 0.674233	Program runtime: 16.242863 sec
+Chip dimension: (9478,5018)	Chip area = 47560604	Total wire length = 800137.000000	Normalized cost = 0.658823	Program runtime: 16.242899 sec
+Chip dimension: (9478,5012)	Chip area = 47503736	Total wire length = 783495.000000	Normalized cost = 0.651319	Program runtime: 16.261826 sec
+Chip dimension: (9478,5012)	Chip area = 47503736	Total wire length = 779073.000000	Normalized cost = 0.649246	Program runtime: 16.351834 sec
+Chip dimension: (9440,5012)	Chip area = 47313280	Total wire length = 750824.000000	Normalized cost = 0.632900	Program runtime: 18.921733 sec
+Chip dimension: (9440,5012)	Chip area = 47313280	Total wire length = 748244.000000	Normalized cost = 0.631691	Program runtime: 18.952116 sec
+Plot saved in plot/apte.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (9440,5012)
+Chip area = 47313280
+Total wire length = 748244.000000
+Normalized cost = 0.631691
+All placed blocks:
+Block cc_12 #1	dimension: (3146,1826)	lower-left: (0,0)       	upper-right: (3146,1826)
+Block cc_13 #2	dimension: (3146,1826)	lower-left: (3146,0)       	upper-right: (6292,1826)
+Block cc_14 #3	dimension: (3146,1826)	lower-left: (6292,0)       	upper-right: (9438,1826)
+Block cc_11 #0	dimension: (1826,3146)	lower-left: (0,1826)       	upper-right: (1826,4972)
+Block clk #8	dimension: (286,826)	lower-left: (1826,1826)       	upper-right: (2112,2652)
+Block cc_23 #6	dimension: (1832,3186)	lower-left: (2112,1826)       	upper-right: (3944,5012)
+Block cc_24 #7	dimension: (1832,3186)	lower-left: (3944,1826)       	upper-right: (5776,5012)
+Block cc_22 #5	dimension: (1832,3186)	lower-left: (5776,1826)       	upper-right: (7608,5012)
+Block cc_21 #4	dimension: (1832,3186)	lower-left: (7608,1826)       	upper-right: (9440,5012)
+Program runtime: 26.909510 sec
+

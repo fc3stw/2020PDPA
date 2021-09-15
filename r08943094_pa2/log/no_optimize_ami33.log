@@ -1,0 +1,51 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (1326,1205)
+Total 33 blocks and 40 terminals added successfully
+Total 121 nets added successfully
+
+Initial floorplan:
+Chip dimension: (1323,1022)	Chip area = 1352106	Total wire length = 131805.500000	Normalized cost = 1.136261	Program runtime: 0.000545 sec
+Plot saved in plot_no_optimize/ami33.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (1323,1022)
+Chip area = 1352106
+Total wire length = 131805.500000
+Normalized cost = 0.896164
+All placed blocks:
+Block bk4 #21	dimension: (560,133)	lower-left: (0,0)       	upper-right: (560,133)
+Block bk13 #6	dimension: (497,140)	lower-left: (560,0)       	upper-right: (1057,140)
+Block bk15a #10	dimension: (266,119)	lower-left: (1057,0)       	upper-right: (1323,119)
+Block bk12 #5	dimension: (406,140)	lower-left: (0,133)       	upper-right: (406,273)
+Block bk8b #28	dimension: (378,126)	lower-left: (406,140)       	upper-right: (784,266)
+Block bk10a #1	dimension: (378,119)	lower-left: (784,140)       	upper-right: (1162,259)
+Block bk10b #2	dimension: (161,140)	lower-left: (1162,119)       	upper-right: (1323,259)
+Block bk17a #13	dimension: (371,182)	lower-left: (0,273)       	upper-right: (371,455)
+Block bk9c #31	dimension: (357,119)	lower-left: (371,273)       	upper-right: (728,392)
+Block bk20 #18	dimension: (350,182)	lower-left: (728,266)       	upper-right: (1078,448)
+Block bk5c #24	dimension: (231,133)	lower-left: (1078,259)       	upper-right: (1309,392)
+Block bk1 #0	dimension: (336,133)	lower-left: (0,455)       	upper-right: (336,588)
+Block bk15b #11	dimension: (336,119)	lower-left: (336,455)       	upper-right: (672,574)
+Block bk21 #19	dimension: (315,140)	lower-left: (672,448)       	upper-right: (987,588)
+Block bk6 #25	dimension: (315,133)	lower-left: (987,448)       	upper-right: (1302,581)
+Block bk3 #20	dimension: (315,133)	lower-left: (0,588)       	upper-right: (315,721)
+Block bk2 #17	dimension: (294,133)	lower-left: (315,588)       	upper-right: (609,721)
+Block bk14b #8	dimension: (294,119)	lower-left: (609,588)       	upper-right: (903,707)
+Block bk8a #27	dimension: (210,210)	lower-left: (903,588)       	upper-right: (1113,798)
+Block bk18 #15	dimension: (182,203)	lower-left: (1113,581)       	upper-right: (1295,784)
+Block bk17b #14	dimension: (203,182)	lower-left: (0,721)       	upper-right: (203,903)
+Block bk14a #7	dimension: (196,119)	lower-left: (203,721)       	upper-right: (399,840)
+Block bk9a #29	dimension: (119,182)	lower-left: (399,721)       	upper-right: (518,903)
+Block bk7 #26	dimension: (98,182)	lower-left: (518,721)       	upper-right: (616,903)
+Block bk5b #23	dimension: (133,175)	lower-left: (616,707)       	upper-right: (749,882)
+Block bk11 #4	dimension: (119,175)	lower-left: (749,707)       	upper-right: (868,882)
+Block bk14c #9	dimension: (161,119)	lower-left: (868,798)       	upper-right: (1029,917)
+Block bk5a #22	dimension: (140,133)	lower-left: (1029,798)       	upper-right: (1169,931)
+Block bk16 #12	dimension: (119,126)	lower-left: (1169,784)       	upper-right: (1288,910)
+Block bk9b #30	dimension: (119,119)	lower-left: (0,903)       	upper-right: (119,1022)
+Block bk9d #32	dimension: (84,119)	lower-left: (119,903)       	upper-right: (203,1022)
+Block bk19 #16	dimension: (84,119)	lower-left: (203,840)       	upper-right: (287,959)
+Block bk10c #3	dimension: (49,119)	lower-left: (287,840)       	upper-right: (336,959)
+Program runtime: 0.003724 sec
+

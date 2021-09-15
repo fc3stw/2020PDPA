@@ -1,0 +1,29 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (5412,3704)
+Total 11 blocks and 45 terminals added successfully
+Total 70 nets added successfully
+
+Initial floorplan:
+Chip dimension: (5320,2016)	Chip area = 10725120	Total wire length = 310103.000000	Normalized cost = 1.305458	Program runtime: 0.000548 sec
+Plot saved in plot_no_optimize/hp.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (5320,2016)
+Chip area = 10725120
+Total wire length = 310103.000000
+Normalized cost = 0.977479
+All placed blocks:
+Block cntd #5	dimension: (3304,546)	lower-left: (0,0)       	upper-right: (3304,546)
+Block npd #7	dimension: (2016,252)	lower-left: (3304,0)       	upper-right: (5320,252)
+Block cntu #6	dimension: (3304,546)	lower-left: (0,546)       	upper-right: (3304,1092)
+Block ppd #9	dimension: (2016,252)	lower-left: (3304,252)       	upper-right: (5320,504)
+Block nps #8	dimension: (3080,462)	lower-left: (0,1092)       	upper-right: (3080,1554)
+Block clkc #0	dimension: (1036,462)	lower-left: (3080,1092)       	upper-right: (4116,1554)
+Block cmp1 #2	dimension: (210,980)	lower-left: (4116,504)       	upper-right: (4326,1484)
+Block cmp2 #3	dimension: (210,980)	lower-left: (4326,504)       	upper-right: (4536,1484)
+Block cmp3 #4	dimension: (210,980)	lower-left: (4536,504)       	upper-right: (4746,1484)
+Block clkd #1	dimension: (378,700)	lower-left: (4746,504)       	upper-right: (5124,1204)
+Block pps #10	dimension: (3080,462)	lower-left: (0,1554)       	upper-right: (3080,2016)
+Program runtime: 0.002471 sec
+

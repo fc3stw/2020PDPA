@@ -1,0 +1,167 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (1326,1205)
+Total 33 blocks and 40 terminals added successfully
+Total 121 nets added successfully
+
+Initial floorplan:
+Chip dimension: (1323,1022)	Chip area = 1352106	Total wire length = 131805.500000	Normalized cost = 1.136261	Program runtime: 0.000806 sec
+Chip dimension: (1323,1022)	Chip area = 1352106	Total wire length = 131805.500000	Normalized cost = 0.730895	Program runtime: 0.006765 sec
+Start SA optimization
+Chip dimension: (1323,1120)	Chip area = 1481760	Total wire length = 129881.500000	Normalized cost = 0.674365	Program runtime: 0.006832 sec
+Chip dimension: (1323,1127)	Chip area = 1491021	Total wire length = 127396.500000	Normalized cost = 0.663964	Program runtime: 0.006894 sec
+Chip dimension: (1323,1183)	Chip area = 1565109	Total wire length = 125902.500000	Normalized cost = 0.630592	Program runtime: 0.006905 sec
+Chip dimension: (1323,1183)	Chip area = 1565109	Total wire length = 125762.500000	Normalized cost = 0.630213	Program runtime: 0.115958 sec
+Chip dimension: (1323,1183)	Chip area = 1565109	Total wire length = 125507.000000	Normalized cost = 0.629520	Program runtime: 0.275778 sec
+Chip dimension: (1323,1183)	Chip area = 1565109	Total wire length = 125458.000000	Normalized cost = 0.629387	Program runtime: 0.328104 sec
+Chip dimension: (1323,1183)	Chip area = 1565109	Total wire length = 124828.000000	Normalized cost = 0.627679	Program runtime: 0.774838 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 127250.000000	Normalized cost = 0.626914	Program runtime: 0.830614 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 123449.000000	Normalized cost = 0.616611	Program runtime: 0.830644 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 123417.500000	Normalized cost = 0.616526	Program runtime: 0.996800 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 121905.500000	Normalized cost = 0.612427	Program runtime: 1.700806 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 121569.500000	Normalized cost = 0.611516	Program runtime: 1.975379 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 119623.000000	Normalized cost = 0.605184	Program runtime: 2.190357 sec
+Chip dimension: (1323,1190)	Chip area = 1574370	Total wire length = 117838.500000	Normalized cost = 0.605068	Program runtime: 2.405264 sec
+Chip dimension: (1323,1197)	Chip area = 1583631	Total wire length = 118086.000000	Normalized cost = 0.602074	Program runtime: 2.889198 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 116948.500000	Normalized cost = 0.597935	Program runtime: 3.319876 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 116924.000000	Normalized cost = 0.597868	Program runtime: 3.319929 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 116518.000000	Normalized cost = 0.596768	Program runtime: 4.303898 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 115748.000000	Normalized cost = 0.594680	Program runtime: 4.520765 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 115125.000000	Normalized cost = 0.592992	Program runtime: 4.689179 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 114526.500000	Normalized cost = 0.591369	Program runtime: 4.745660 sec
+Chip dimension: (1323,1204)	Chip area = 1592892	Total wire length = 111171.000000	Normalized cost = 0.582274	Program runtime: 8.371280 sec
+Chip dimension: (1323,1190)	Chip area = 1574370	Total wire length = 107778.000000	Normalized cost = 0.577797	Program runtime: 8.428880 sec
+Chip dimension: (1323,1190)	Chip area = 1574370	Total wire length = 107235.500000	Normalized cost = 0.576327	Program runtime: 8.650642 sec
+Chip dimension: (1323,1190)	Chip area = 1574370	Total wire length = 105631.500000	Normalized cost = 0.571979	Program runtime: 8.761059 sec
+Chip dimension: (1323,1190)	Chip area = 1574370	Total wire length = 105379.500000	Normalized cost = 0.571296	Program runtime: 9.203267 sec
+Chip dimension: (1302,1190)	Chip area = 1549380	Total wire length = 106936.500000	Normalized cost = 0.567083	Program runtime: 9.425444 sec
+Chip dimension: (1302,1190)	Chip area = 1549380	Total wire length = 106838.500000	Normalized cost = 0.566817	Program runtime: 9.697645 sec
+Chip dimension: (1302,1190)	Chip area = 1549380	Total wire length = 106751.000000	Normalized cost = 0.566580	Program runtime: 10.028781 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 106597.000000	Normalized cost = 0.559478	Program runtime: 10.085704 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 106443.000000	Normalized cost = 0.559061	Program runtime: 10.203426 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 106170.000000	Normalized cost = 0.558321	Program runtime: 10.488278 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 106009.000000	Normalized cost = 0.557884	Program runtime: 11.317163 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 105792.000000	Normalized cost = 0.557296	Program runtime: 12.374407 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 105708.000000	Normalized cost = 0.557068	Program runtime: 12.487448 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 105281.000000	Normalized cost = 0.555911	Program runtime: 13.314893 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 105141.000000	Normalized cost = 0.555531	Program runtime: 13.314934 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 104651.000000	Normalized cost = 0.554203	Program runtime: 13.699432 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 102502.000000	Normalized cost = 0.548378	Program runtime: 14.150775 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 102243.000000	Normalized cost = 0.547676	Program runtime: 17.475139 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 101410.000000	Normalized cost = 0.545418	Program runtime: 19.829302 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 101385.500000	Normalized cost = 0.545352	Program runtime: 19.942634 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 101224.500000	Normalized cost = 0.544915	Program runtime: 20.223543 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 100154.500000	Normalized cost = 0.542015	Program runtime: 20.841610 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 99412.500000	Normalized cost = 0.540003	Program runtime: 21.234876 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98905.000000	Normalized cost = 0.538628	Program runtime: 25.444402 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98873.500000	Normalized cost = 0.538542	Program runtime: 27.943947 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98838.500000	Normalized cost = 0.538448	Program runtime: 28.117965 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98768.500000	Normalized cost = 0.538258	Program runtime: 29.091685 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98726.500000	Normalized cost = 0.538144	Program runtime: 29.149186 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 98103.500000	Normalized cost = 0.536455	Program runtime: 30.059677 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 97445.500000	Normalized cost = 0.534672	Program runtime: 32.870137 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 97379.000000	Normalized cost = 0.534491	Program runtime: 33.326864 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 97267.000000	Normalized cost = 0.534188	Program runtime: 33.681115 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 97242.500000	Normalized cost = 0.534121	Program runtime: 33.742383 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 97046.500000	Normalized cost = 0.533590	Program runtime: 33.742411 sec
+Chip dimension: (1302,1183)	Chip area = 1540266	Total wire length = 96968.000000	Normalized cost = 0.533377	Program runtime: 34.152391 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 98203.500000	Normalized cost = 0.529409	Program runtime: 34.444184 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 98119.500000	Normalized cost = 0.529181	Program runtime: 35.139352 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 98081.000000	Normalized cost = 0.529077	Program runtime: 36.019255 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 97972.500000	Normalized cost = 0.528783	Program runtime: 36.430937 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 97895.500000	Normalized cost = 0.528574	Program runtime: 37.181895 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 97517.500000	Normalized cost = 0.527549	Program runtime: 37.603174 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 96674.000000	Normalized cost = 0.525263	Program runtime: 38.071065 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 96667.000000	Normalized cost = 0.525244	Program runtime: 38.541489 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 96583.000000	Normalized cost = 0.525016	Program runtime: 41.547824 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 95609.000000	Normalized cost = 0.522376	Program runtime: 47.504196 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 95577.500000	Normalized cost = 0.522291	Program runtime: 48.100177 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 95546.000000	Normalized cost = 0.522205	Program runtime: 50.542826 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 95164.500000	Normalized cost = 0.521171	Program runtime: 52.891695 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 95133.000000	Normalized cost = 0.521086	Program runtime: 53.814205 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 94100.500000	Normalized cost = 0.518287	Program runtime: 54.350375 sec
+Chip dimension: (1274,1162)	Chip area = 1480388	Total wire length = 93958.000000	Normalized cost = 0.517901	Program runtime: 54.529117 sec
+Chip dimension: (1225,1127)	Chip area = 1380575	Total wire length = 96303.000000	Normalized cost = 0.514648	Program runtime: 60.152728 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 97969.000000	Normalized cost = 0.505078	Program runtime: 60.152806 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96758.000000	Normalized cost = 0.501795	Program runtime: 60.332568 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96688.000000	Normalized cost = 0.501606	Program runtime: 60.866370 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96625.000000	Normalized cost = 0.501435	Program runtime: 61.823429 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96614.500000	Normalized cost = 0.501406	Program runtime: 70.361306 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96530.500000	Normalized cost = 0.501179	Program runtime: 72.078205 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96171.000000	Normalized cost = 0.500204	Program runtime: 75.139566 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 96100.000000	Normalized cost = 0.500012	Program runtime: 75.329023 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 93645.500000	Normalized cost = 0.493358	Program runtime: 79.987420 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 93470.500000	Normalized cost = 0.492884	Program runtime: 80.664683 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 92599.000000	Normalized cost = 0.490522	Program runtime: 80.979087 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 92256.000000	Normalized cost = 0.489592	Program runtime: 81.659153 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 92018.000000	Normalized cost = 0.488947	Program runtime: 82.965465 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 91962.000000	Normalized cost = 0.488795	Program runtime: 85.528804 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 91934.000000	Normalized cost = 0.488719	Program runtime: 85.591055 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 91612.000000	Normalized cost = 0.487846	Program runtime: 86.906409 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 91556.000000	Normalized cost = 0.487695	Program runtime: 89.159414 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 90677.500000	Normalized cost = 0.485313	Program runtime: 89.407827 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89920.500000	Normalized cost = 0.483261	Program runtime: 91.171358 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89836.500000	Normalized cost = 0.483034	Program runtime: 94.702176 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89625.500000	Normalized cost = 0.482462	Program runtime: 100.233026 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89569.500000	Normalized cost = 0.482310	Program runtime: 100.489242 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89317.500000	Normalized cost = 0.481627	Program runtime: 100.810525 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89233.500000	Normalized cost = 0.481399	Program runtime: 101.131096 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89107.500000	Normalized cost = 0.481057	Program runtime: 101.521216 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 89044.500000	Normalized cost = 0.480887	Program runtime: 111.331878 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 88386.500000	Normalized cost = 0.479103	Program runtime: 129.883415 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 88162.500000	Normalized cost = 0.478496	Program runtime: 169.845634 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 88141.500000	Normalized cost = 0.478439	Program runtime: 169.912135 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 88043.500000	Normalized cost = 0.478173	Program runtime: 170.881253 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 87704.000000	Normalized cost = 0.477253	Program runtime: 171.720749 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 87620.000000	Normalized cost = 0.477025	Program runtime: 171.720777 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 86265.500000	Normalized cost = 0.473354	Program runtime: 173.256608 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 86244.500000	Normalized cost = 0.473297	Program runtime: 176.585941 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 86015.000000	Normalized cost = 0.472675	Program runtime: 176.655849 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 85973.000000	Normalized cost = 0.472561	Program runtime: 176.656020 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 85952.000000	Normalized cost = 0.472504	Program runtime: 179.562195 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 85854.000000	Normalized cost = 0.472238	Program runtime: 240.113619 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 85742.000000	Normalized cost = 0.471935	Program runtime: 285.029996 sec
+Chip dimension: (1225,1113)	Chip area = 1363425	Total wire length = 85651.000000	Normalized cost = 0.471688	Program runtime: 286.497945 sec
+Plot saved in plot/ami33.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (1225,1113)
+Chip area = 1363425
+Total wire length = 85651.000000
+Normalized cost = 0.471688
+All placed blocks:
+Block bk13 #6	dimension: (497,140)	lower-left: (0,0)       	upper-right: (497,140)
+Block bk4 #21	dimension: (560,133)	lower-left: (497,0)       	upper-right: (1057,133)
+Block bk15a #10	dimension: (119,266)	lower-left: (1057,0)       	upper-right: (1176,266)
+Block bk12 #5	dimension: (406,140)	lower-left: (497,133)       	upper-right: (903,273)
+Block bk14a #7	dimension: (119,196)	lower-left: (903,133)       	upper-right: (1022,329)
+Block bk10b #2	dimension: (161,140)	lower-left: (0,140)       	upper-right: (161,280)
+Block bk15b #11	dimension: (336,119)	lower-left: (161,140)       	upper-right: (497,259)
+Block bk10c #3	dimension: (119,49)	lower-left: (0,280)       	upper-right: (119,329)
+Block bk21 #19	dimension: (315,140)	lower-left: (119,280)       	upper-right: (434,420)
+Block bk17a #13	dimension: (371,182)	lower-left: (434,273)       	upper-right: (805,455)
+Block bk2 #17	dimension: (294,133)	lower-left: (805,329)       	upper-right: (1099,462)
+Block bk10a #1	dimension: (378,119)	lower-left: (0,420)       	upper-right: (378,539)
+Block bk20 #18	dimension: (350,182)	lower-left: (378,455)       	upper-right: (728,637)
+Block bk3 #20	dimension: (315,133)	lower-left: (728,462)       	upper-right: (1043,595)
+Block bk7 #26	dimension: (182,98)	lower-left: (1043,462)       	upper-right: (1225,560)
+Block bk5a #22	dimension: (140,133)	lower-left: (728,595)       	upper-right: (868,728)
+Block bk17b #14	dimension: (182,203)	lower-left: (868,595)       	upper-right: (1050,798)
+Block bk8b #28	dimension: (378,126)	lower-left: (0,539)       	upper-right: (378,665)
+Block bk18 #15	dimension: (182,203)	lower-left: (378,637)       	upper-right: (560,840)
+Block bk14b #8	dimension: (294,119)	lower-left: (560,728)       	upper-right: (854,847)
+Block bk19 #16	dimension: (119,84)	lower-left: (0,665)       	upper-right: (119,749)
+Block bk8a #27	dimension: (210,210)	lower-left: (119,665)       	upper-right: (329,875)
+Block bk9a #29	dimension: (182,119)	lower-left: (329,840)       	upper-right: (511,959)
+Block bk14c #9	dimension: (161,119)	lower-left: (511,847)       	upper-right: (672,966)
+Block bk5b #23	dimension: (175,133)	lower-left: (672,847)       	upper-right: (847,980)
+Block bk5c #24	dimension: (231,133)	lower-left: (847,847)       	upper-right: (1078,980)
+Block bk1 #0	dimension: (336,133)	lower-left: (511,980)       	upper-right: (847,1113)
+Block bk6 #25	dimension: (315,133)	lower-left: (847,980)       	upper-right: (1162,1113)
+Block bk16 #12	dimension: (119,126)	lower-left: (0,749)       	upper-right: (119,875)
+Block bk9b #30	dimension: (119,119)	lower-left: (119,875)       	upper-right: (238,994)
+Block bk9d #32	dimension: (84,119)	lower-left: (238,875)       	upper-right: (322,994)
+Block bk9c #31	dimension: (357,119)	lower-left: (119,994)       	upper-right: (476,1113)
+Block bk11 #4	dimension: (119,175)	lower-left: (0,875)       	upper-right: (119,1050)
+Program runtime: 304.804327 sec
+

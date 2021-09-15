@@ -1,0 +1,67 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (5336,7673)
+Total 49 blocks and 22 terminals added successfully
+Total 396 nets added successfully
+
+Initial floorplan:
+Chip dimension: (5334,7644)	Chip area = 40773096	Total wire length = 1472156.000000	Normalized cost = 1.004898	Program runtime: 0.001436 sec
+Plot saved in plot_no_optimize/ami49.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (5334,7644)
+Chip area = 40773096
+Total wire length = 1472156.000000
+Normalized cost = 0.679996
+All placed blocks:
+Block M001 #0	dimension: (3234,1708)	lower-left: (0,0)       	upper-right: (3234,1708)
+Block M033 #32	dimension: (1890,952)	lower-left: (3234,0)       	upper-right: (5124,952)
+Block M042 #41	dimension: (168,378)	lower-left: (5124,0)       	upper-right: (5292,378)
+Block M004 #3	dimension: (3080,1610)	lower-left: (0,1708)       	upper-right: (3080,3318)
+Block M003 #2	dimension: (2184,1008)	lower-left: (3080,1708)       	upper-right: (5264,2716)
+Block M006 #5	dimension: (1862,882)	lower-left: (0,3318)       	upper-right: (1862,4200)
+Block M002 #1	dimension: (1554,672)	lower-left: (1862,3318)       	upper-right: (3416,3990)
+Block M005 #4	dimension: (532,1386)	lower-left: (3416,2716)       	upper-right: (3948,4102)
+Block M048 #47	dimension: (728,1302)	lower-left: (3948,2716)       	upper-right: (4676,4018)
+Block M044 #43	dimension: (630,1302)	lower-left: (4676,2716)       	upper-right: (5306,4018)
+Block M030 #29	dimension: (1302,728)	lower-left: (0,4200)       	upper-right: (1302,4928)
+Block M008 #7	dimension: (1246,644)	lower-left: (1302,4200)       	upper-right: (2548,4844)
+Block M037 #36	dimension: (1218,560)	lower-left: (2548,4102)       	upper-right: (3766,4662)
+Block M046 #45	dimension: (1204,504)	lower-left: (3766,4102)       	upper-right: (4970,4606)
+Block M007 #6	dimension: (350,868)	lower-left: (4970,4018)       	upper-right: (5320,4886)
+Block M045 #44	dimension: (1162,672)	lower-left: (0,4928)       	upper-right: (1162,5600)
+Block M034 #33	dimension: (1148,560)	lower-left: (1162,4928)       	upper-right: (2310,5488)
+Block M023 #22	dimension: (1134,490)	lower-left: (2310,4844)       	upper-right: (3444,5334)
+Block M018 #17	dimension: (1078,392)	lower-left: (3444,4662)       	upper-right: (4522,5054)
+Block M036 #35	dimension: (448,994)	lower-left: (4522,4606)       	upper-right: (4970,5600)
+Block M013 #12	dimension: (266,672)	lower-left: (4970,4886)       	upper-right: (5236,5558)
+Block M028 #27	dimension: (1064,518)	lower-left: (0,5600)       	upper-right: (1064,6118)
+Block M031 #30	dimension: (1050,392)	lower-left: (1064,5600)       	upper-right: (2114,5992)
+Block M029 #28	dimension: (994,490)	lower-left: (2114,5488)       	upper-right: (3108,5978)
+Block M009 #8	dimension: (980,462)	lower-left: (3108,5334)       	upper-right: (4088,5796)
+Block M038 #37	dimension: (966,448)	lower-left: (4088,5600)       	upper-right: (5054,6048)
+Block M022 #21	dimension: (952,364)	lower-left: (0,6118)       	upper-right: (952,6482)
+Block M014 #13	dimension: (924,406)	lower-left: (952,6118)       	upper-right: (1876,6524)
+Block M043 #42	dimension: (910,532)	lower-left: (1876,5992)       	upper-right: (2786,6524)
+Block M040 #39	dimension: (868,392)	lower-left: (2786,5978)       	upper-right: (3654,6370)
+Block M035 #34	dimension: (854,392)	lower-left: (3654,6048)       	upper-right: (4508,6440)
+Block M021 #20	dimension: (826,392)	lower-left: (4508,6048)       	upper-right: (5334,6440)
+Block M041 #40	dimension: (854,364)	lower-left: (0,6482)       	upper-right: (854,6846)
+Block M015 #14	dimension: (840,406)	lower-left: (854,6524)       	upper-right: (1694,6930)
+Block M027 #26	dimension: (840,364)	lower-left: (1694,6524)       	upper-right: (2534,6888)
+Block M019 #18	dimension: (826,392)	lower-left: (2534,6524)       	upper-right: (3360,6916)
+Block M011 #10	dimension: (826,378)	lower-left: (3360,6440)       	upper-right: (4186,6818)
+Block M047 #46	dimension: (812,434)	lower-left: (4186,6440)       	upper-right: (4998,6874)
+Block M012 #11	dimension: (798,406)	lower-left: (0,6846)       	upper-right: (798,7252)
+Block M016 #15	dimension: (798,322)	lower-left: (798,6930)       	upper-right: (1596,7252)
+Block M024 #23	dimension: (798,266)	lower-left: (1596,6930)       	upper-right: (2394,7196)
+Block M020 #19	dimension: (798,252)	lower-left: (2394,6916)       	upper-right: (3192,7168)
+Block M032 #31	dimension: (784,378)	lower-left: (3192,6916)       	upper-right: (3976,7294)
+Block M039 #38	dimension: (784,364)	lower-left: (3976,6874)       	upper-right: (4760,7238)
+Block M025 #24	dimension: (784,322)	lower-left: (0,7252)       	upper-right: (784,7574)
+Block M017 #16	dimension: (756,392)	lower-left: (784,7252)       	upper-right: (1540,7644)
+Block M049 #48	dimension: (742,392)	lower-left: (1540,7252)       	upper-right: (2282,7644)
+Block M026 #25	dimension: (728,350)	lower-left: (2282,7196)       	upper-right: (3010,7546)
+Block M010 #9	dimension: (616,294)	lower-left: (3010,7294)       	upper-right: (3626,7588)
+Program runtime: 0.005524 sec
+

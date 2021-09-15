@@ -1,0 +1,71 @@
+set object 1 rect from 511,980 to 847,1113 fillcolor lt 2 linewidth 3
+set label "bk1" at 679,1046 front center font ",40"
+set object 2 rect from 0,420 to 378,539 fillcolor lt 2 linewidth 3
+set label "bk10a" at 189,479 front center font ",40"
+set object 3 rect from 0,140 to 161,280 fillcolor lt 2 linewidth 3
+set label "bk10b" at 80,210 front center font ",40"
+set object 4 rect from 0,280 to 119,329 fillcolor lt 2 linewidth 3
+set label "bk10c" at 59,304 front center font ",40"
+set object 5 rect from 0,875 to 119,1050 fillcolor lt 2 linewidth 3
+set label "bk11" at 59,962 front center font ",40"
+set object 6 rect from 497,133 to 903,273 fillcolor lt 2 linewidth 3
+set label "bk12" at 700,203 front center font ",40"
+set object 7 rect from 0,0 to 497,140 fillcolor lt 2 linewidth 3
+set label "bk13" at 248,70 front center font ",40"
+set object 8 rect from 903,133 to 1022,329 fillcolor lt 2 linewidth 3
+set label "bk14a" at 962,231 front center font ",40"
+set object 9 rect from 560,728 to 854,847 fillcolor lt 2 linewidth 3
+set label "bk14b" at 707,787 front center font ",40"
+set object 10 rect from 511,847 to 672,966 fillcolor lt 2 linewidth 3
+set label "bk14c" at 591,906 front center font ",40"
+set object 11 rect from 1057,0 to 1176,266 fillcolor lt 2 linewidth 3
+set label "bk15a" at 1116,133 front center font ",40"
+set object 12 rect from 161,140 to 497,259 fillcolor lt 2 linewidth 3
+set label "bk15b" at 329,199 front center font ",40"
+set object 13 rect from 0,749 to 119,875 fillcolor lt 2 linewidth 3
+set label "bk16" at 59,812 front center font ",40"
+set object 14 rect from 434,273 to 805,455 fillcolor lt 2 linewidth 3
+set label "bk17a" at 619,364 front center font ",40"
+set object 15 rect from 868,595 to 1050,798 fillcolor lt 2 linewidth 3
+set label "bk17b" at 959,696 front center font ",40"
+set object 16 rect from 378,637 to 560,840 fillcolor lt 2 linewidth 3
+set label "bk18" at 469,738 front center font ",40"
+set object 17 rect from 0,665 to 119,749 fillcolor lt 2 linewidth 3
+set label "bk19" at 59,707 front center font ",40"
+set object 18 rect from 805,329 to 1099,462 fillcolor lt 2 linewidth 3
+set label "bk2" at 952,395 front center font ",40"
+set object 19 rect from 378,455 to 728,637 fillcolor lt 2 linewidth 3
+set label "bk20" at 553,546 front center font ",40"
+set object 20 rect from 119,280 to 434,420 fillcolor lt 2 linewidth 3
+set label "bk21" at 276,350 front center font ",40"
+set object 21 rect from 728,462 to 1043,595 fillcolor lt 2 linewidth 3
+set label "bk3" at 885,528 front center font ",40"
+set object 22 rect from 497,0 to 1057,133 fillcolor lt 2 linewidth 3
+set label "bk4" at 777,66 front center font ",40"
+set object 23 rect from 728,595 to 868,728 fillcolor lt 2 linewidth 3
+set label "bk5a" at 798,661 front center font ",40"
+set object 24 rect from 672,847 to 847,980 fillcolor lt 2 linewidth 3
+set label "bk5b" at 759,913 front center font ",40"
+set object 25 rect from 847,847 to 1078,980 fillcolor lt 2 linewidth 3
+set label "bk5c" at 962,913 front center font ",40"
+set object 26 rect from 847,980 to 1162,1113 fillcolor lt 2 linewidth 3
+set label "bk6" at 1004,1046 front center font ",40"
+set object 27 rect from 1043,462 to 1225,560 fillcolor lt 2 linewidth 3
+set label "bk7" at 1134,511 front center font ",40"
+set object 28 rect from 119,665 to 329,875 fillcolor lt 2 linewidth 3
+set label "bk8a" at 224,770 front center font ",40"
+set object 29 rect from 0,539 to 378,665 fillcolor lt 2 linewidth 3
+set label "bk8b" at 189,602 front center font ",40"
+set object 30 rect from 329,840 to 511,959 fillcolor lt 2 linewidth 3
+set label "bk9a" at 420,899 front center font ",40"
+set object 31 rect from 119,875 to 238,994 fillcolor lt 2 linewidth 3
+set label "bk9b" at 178,934 front center font ",40"
+set object 32 rect from 119,994 to 476,1113 fillcolor lt 2 linewidth 3
+set label "bk9c" at 297,1053 front center font ",40"
+set object 33 rect from 238,875 to 322,994 fillcolor lt 2 linewidth 3
+set label "bk9d" at 280,934 front center font ",40"
+set arrow from 0,1205 to 1326,1205 nohead lc 3 lw 5
+set arrow from 1326,0 to 1326,1205 nohead lc 3 lw 5
+set term png size 2000,2000
+set output 'plot/ami33.png'
+plot 'gnu/data.txt' using 1:2 with points

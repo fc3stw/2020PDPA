@@ -1,0 +1,27 @@
+Plot result will be saved
+Set alpha value=0.500000
+Outline dimension = (11894,6314)
+Total 9 blocks and 73 terminals added successfully
+Total 96 nets added successfully
+
+Initial floorplan:
+Chip dimension: (9844,5490)	Chip area = 54043560	Total wire length = 1112774.000000	Normalized cost = 1.026844	Program runtime: 0.000289 sec
+Plot saved in plot_no_optimize/apte.png
+
+###################### Floorplan Summary ######################
+Chip dimension: (9844,5490)
+Chip area = 54043560
+Total wire length = 1112774.000000
+Normalized cost = 0.926471
+All placed blocks:
+Block cc_21 #4	dimension: (3186,1832)	lower-left: (0,0)       	upper-right: (3186,1832)
+Block cc_22 #5	dimension: (3186,1832)	lower-left: (3186,0)       	upper-right: (6372,1832)
+Block cc_23 #6	dimension: (3186,1832)	lower-left: (6372,0)       	upper-right: (9558,1832)
+Block clk #8	dimension: (286,826)	lower-left: (9558,0)       	upper-right: (9844,826)
+Block cc_24 #7	dimension: (3186,1832)	lower-left: (0,1832)       	upper-right: (3186,3664)
+Block cc_11 #0	dimension: (3146,1826)	lower-left: (3186,1832)       	upper-right: (6332,3658)
+Block cc_12 #1	dimension: (3146,1826)	lower-left: (6332,1832)       	upper-right: (9478,3658)
+Block cc_13 #2	dimension: (3146,1826)	lower-left: (0,3664)       	upper-right: (3146,5490)
+Block cc_14 #3	dimension: (3146,1826)	lower-left: (3146,3664)       	upper-right: (6292,5490)
+Program runtime: 0.001837 sec
+
